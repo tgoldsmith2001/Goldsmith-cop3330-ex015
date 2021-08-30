@@ -3,7 +3,6 @@
  *  Copyright 2021 Tyler Goldsmith
  */
 import java.util.Scanner;
-import java.lang.Math;
 public class Main {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
